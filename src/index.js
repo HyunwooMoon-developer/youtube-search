@@ -7,7 +7,7 @@ import SearchBar from "./Components/SearchBar/SearchBar";
 import VideoList from "./Components/VideoList/VideoList";
 import VideoDetail from "./Components/VideoDetail/VideoDetail";
 
-const API_KEY = "AIzaSyAJnBbjQcjzj9A2W-x7zEvvMjMyhl03cRU";
+const API_KEY = "youtube-api-key";
 
 // Create a new Component. This component should produce
 // some HTML
